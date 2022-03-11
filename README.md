@@ -2,7 +2,7 @@
 
 The Dashboard centralizes and makes public any data from 53 energy bills of the university. The software extract data from .xlsx files and is updated monthly. 
 
-Follow https://bit.ly/energia-ufrn to access the public Dashboard. 
+Follow https://bit.ly/energiaufrn to access the public Dashboard. 
 
 Current stable build: 2.0
 
